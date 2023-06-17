@@ -26,7 +26,7 @@ public class APIPage {
 		case "Pax_select":
 			by= By.xpath("//select[@id='epnrBookingGuidedFlowServicess1_servicesAssociations_paxSelect_id_input']");
 			break;
-			// Add other locators specific to the APIPage class
+			// Add other locators specific to the APIPage class 123
 		}
 		return by;
 	}
